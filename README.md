@@ -25,12 +25,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E4%BA%BA%E5%93%81-%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0-2EA043?style=flat-square" alt="人品说到做到" />
-<img src="https://img.shields.io/badge/%E4%BA%BA%E5%93%81-%E9%9D%A0%E8%B0%B1%E6%8B%85%E5%BD%93-1F6FEB?style=flat-square" alt="人品靠谱担当" />
-<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89-5B9CF6?style=flat-square" alt="性格长期主义" />
-<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-59606D?style=flat-square" alt="性格极简主义" />
-<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E5%AE%9E%E6%88%98%E6%B4%BE-F78C40?style=flat-square" alt="性格实战派" />
-<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E5%A5%BD%E5%A5%87%E5%BF%83%E8%BF%87%E5%89%A9-8A63D2?style=flat-square" alt="性格好奇心过剩" />
+<img src="https://img.shields.io/badge/%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0-2EA043?style=flat-square" alt="说到做到" />
+<img src="https://img.shields.io/badge/%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89-5B9CF6?style=flat-square" alt="长期主义" />
+<img src="https://img.shields.io/badge/%E5%AE%9E%E6%88%98%E6%B4%BE-F78C40?style=flat-square" alt="实战派" />
+<img src="https://img.shields.io/badge/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-59606D?style=flat-square" alt="极简主义" />
+<img src="https://img.shields.io/badge/%E5%A5%BD%E5%A5%87%E5%BF%83%E8%BF%87%E5%89%A9-8A63D2?style=flat-square" alt="好奇心过剩" />
 
 </div>
 
@@ -40,5 +39,6 @@
 </picture>
 
 <div align="center">
-<i>研究出身，工程落地 · 让 AI 读懂每一份文档 📄</i>
+<i>让 AI 读懂每一份文档 📄 —— 在做 OCR · Agent · 内容自动化，欢迎交流</i><br><br>
+<a href="mailto:lucas4ai@outlook.com"><img src="https://img.shields.io/badge/%E6%89%BE%E6%88%91%E8%81%8A%E8%81%8A-lucas4ai%40outlook.com-5B9CF6?style=flat-square&logo=maildotru&logoColor=white" alt="email" /></a>
 </div>
