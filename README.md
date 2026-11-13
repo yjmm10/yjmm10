@@ -20,6 +20,17 @@
 | 多模态文档理解<br>版面 · 表格 · 印章 · 公式<br><i>让机器真正"读懂"文档</i> | 科研与创作工作流<br>拆成可复用的 agent 技能<br><i>边用边造</i> | 领域模型微调落地<br>小数据 · 高价值场景<br><i>AI 内容工厂 · 全自动分发</i> |
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/%E4%BA%BA%E5%93%81-%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0-2EA043?style=flat-square" alt="人品说到做到" />
+<img src="https://img.shields.io/badge/%E4%BA%BA%E5%93%81-%E9%9D%A0%E8%B0%B1%E6%8B%85%E5%BD%93-1F6FEB?style=flat-square" alt="人品靠谱担当" />
+<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89-5B9CF6?style=flat-square" alt="性格长期主义" />
+<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-59606D?style=flat-square" alt="性格极简主义" />
+<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E5%AE%9E%E6%88%98%E6%B4%BE-F78C40?style=flat-square" alt="性格实战派" />
+<img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-%E5%A5%BD%E5%A5%87%E5%BF%83%E8%BF%87%E5%89%A9-8A63D2?style=flat-square" alt="性格好奇心过剩" />
+
+</div>
+
+<div align="center">
 <img height="128" src="https://github-readme-stats.vercel.app/api?username=yjmm10&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="stats" />
 &nbsp;
 <img height="128" src="https://streak-stats.demolab.com?user=yjmm10&hide_border=true&hide_total_contributions=true&locale=zh_CN" alt="streak" />
