@@ -21,16 +21,6 @@
 
 **🔭 想做** 领域模型微调的落地：小数据 · 高价值场景 · AI 内容工厂（采集 → 创作 → 分发全自动）
 
-```text
-2017 开源入门 → 2021 OCR 深耕 → 2023 印章/文档科研 → 2026 CVPR · DocVLM → now agent 系统 🚀
-```
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,pytorch,ts,vue,docker,linux,git&theme=light" />
-</div>
-
-`PaddleOCR` · `LoRA/SFT` · `RAG` · `vLLM` · `Cloudflare Workers`
-
 <div align="center">
 <img height="128" src="https://github-readme-stats.vercel.app/api?username=yjmm10&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="stats" />
 &nbsp;
