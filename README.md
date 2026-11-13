@@ -30,12 +30,6 @@
 
 </div>
 
-<div align="center">
-<img height="128" src="https://github-readme-stats.vercel.app/api?username=yjmm10&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="stats" />
-&nbsp;
-<img height="128" src="https://streak-stats.demolab.com?user=yjmm10&hide_border=true&hide_total_contributions=true&locale=zh_CN" alt="streak" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yjmm10/yjmm10/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/yjmm10/yjmm10/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
