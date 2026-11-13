@@ -15,11 +15,9 @@
 
 </div>
 
-**🧠 关注** 多模态文档理解 —— 版面 · 表格 · 印章 · 公式，让机器真正"读懂"文档
-
-**🤖 在做** 把科研与创作的工作流，拆成一个个可复用的 agent 技能，边用边造
-
-**🔭 想做** 领域模型微调的落地：小数据 · 高价值场景 · AI 内容工厂（采集 → 创作 → 分发全自动）
+| 🧠 关注 | 🤖 在做 | 🔭 想做 |
+|:---:|:---:|:---:|
+| 多模态文档理解<br>版面 · 表格 · 印章 · 公式<br><i>让机器真正"读懂"文档</i> | 科研与创作工作流<br>拆成可复用的 agent 技能<br><i>边用边造</i> | 领域模型微调落地<br>小数据 · 高价值场景<br><i>AI 内容工厂 · 全自动分发</i> |
 
 <div align="center">
 <img height="128" src="https://github-readme-stats.vercel.app/api?username=yjmm10&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="stats" />
