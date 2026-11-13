@@ -15,9 +15,28 @@
 
 </div>
 
-| 🧠 关注 | 🤖 在做 | 🔭 想做 |
-|:---:|:---:|:---:|
-| 多模态文档理解<br>版面 · 表格 · 印章 · 公式<br><i>让机器真正"读懂"文档</i> | 科研与创作工作流<br>拆成可复用的 agent 技能<br><i>边用边造</i> | 领域模型微调落地<br>小数据 · 高价值场景<br><i>AI 内容工厂 · 全自动分发</i> |
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>🧠 关注</b><br><br>
+      一头扎进多模态文档理解<br>
+      版面 · 表格 · 印章 · 公式<br>
+      <i>让机器真正"读懂"文档</i>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <b>🤖 在做</b><br><br>
+      把日常折腾沉淀成 agent 技能<br>
+      论文 · PDF · 写作 · 发文<br>
+      <i>能自动化的绝不手动 ✋</i>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>🔭 想做</b><br><br>
+      小数据微调，撬动高价值场景<br>
+      再造一座 AI 内容工厂<br>
+      <i>采集 → 创作 → 分发全自动 💸</i>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
