@@ -15,11 +15,11 @@
 
 </div>
 
-**🧠 idp 全链路** — [SealGenForOCR](https://github.com/yjmm10/SealGenForOCR) ⭐6 数据合成 · [Docr](https://github.com/yjmm10/Docr) OCR 组件 · [docvlm](https://github.com/yjmm10/docvlm) 多模态理解 · [Visionary](https://github.com/yjmm10/Visionary) 可视化
+**🧠 关注** 多模态文档理解 —— 版面 · 表格 · 印章 · 公式，让机器真正"读懂"文档
 
-**🤖 agent 技能** — [lusca-skill](https://github.com/yjmm10/lusca-skill) 论文检索 · 精读 · 写作流 · [academic-skill-nav](https://github.com/yjmm10/academic-skill-nav) · [patent-skills](https://github.com/yjmm10/patent-skills) 专利
+**🤖 在做** 把科研与创作的工作流，拆成一个个可复用的 agent 技能，边用边造
 
-**✍️ 内容自动化** — [MediaSync](https://github.com/yjmm10/MediaSync) ⭐3 一键多发 · [csdn-anno](https://github.com/yjmm10/csdn-anno) 三端插件 · [AIPhoto](https://github.com/yjmm10/AIPhoto) 组图生成
+**🔭 想做** 领域模型微调的落地：小数据 · 高价值场景 · AI 内容工厂（采集 → 创作 → 分发全自动）
 
 ```text
 2017 开源入门 → 2021 OCR 深耕 → 2023 印章/文档科研 → 2026 CVPR · DocVLM → now agent 系统 🚀
